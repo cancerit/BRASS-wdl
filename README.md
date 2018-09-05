@@ -39,5 +39,8 @@ The following workflow description files will produce PON filter for BRASS.
 
 ### Running BRASS
 
-### Outputs
+The following workflow description files will run the main BRASS pipeline on a single cloud VM:  
+1. brass-main.wdl
 
+### Outputs
+BRASS will generate a results folder which will contain files containing breakpoint calls (in BEDPE format) and summary statistics such as insert size (in text format).

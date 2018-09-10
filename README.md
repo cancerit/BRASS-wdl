@@ -35,7 +35,7 @@ The inputs of this process are normal-sample BAM files, which are used to genera
 The following workflow description files will produce PON filter for BRASS.
 1. brass-generate-brm-bam.wdl
 2. brass-merge-brm-bams.wdl
-3. brass-generate-filter.wdl
+3. brass-generate-PON-filter.wdl
 
 ### Running BRASS
 
